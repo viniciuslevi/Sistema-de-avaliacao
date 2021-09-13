@@ -1,0 +1,93 @@
+{"results": [
+    {
+        "category": "Science: Computers", 
+        "type": "multiple", 
+        "difficulty": "easy", 
+        "question": "What does CPU stand for?",
+        "correct_answer":"Central Processing Unit",
+        "answer_choices":["Central Process Unit","Central Processing Unit", "Computer Personal Unit", "Central Processor Unit"]
+    },
+    
+    {
+        "category":"Science Computers",
+        "type": "multiple",
+        "difficulty":"easy",
+        "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+        "correct_answer": "1000",
+        "answer_choices":["512","1024","1000","500"]
+    },
+    {
+        "category":"Science Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "When Gmail first launched, how much storage did it provide for your email?",
+        "correct_answer": "1GB",
+        "answer_choices": ["512MB", "5GB", "Unlimited","1GB"]
+
+    },
+
+    {
+        "category":"Science: Computers",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"What does GHz stand for?",
+        "correct_answer":"Gigahertz",
+        "answer_choices":["Gigahotz","Gigahetz","Gigahatz","Gigahertz"]
+     },
+        
+    {
+        "category":"Science: Computers",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"The programming language &#039;Swift&#039; was created to replace what other programming language?",
+        "correct_answer":"Objective-C",
+        "answer_choices":["Objective-C","C#","Ruby","C++"]
+   },
+        
+   {
+        "category":"Science: Computers",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"What amount of bits commonly equals one byte?",
+        "correct_answer":"8",
+        "answer_choices":["1","8","2","64"]
+    },
+        
+    {
+        "category":"Science: Computers",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Which computer hardware device provides an interface for all other connected devices to communicate?",
+        "correct_answer":"Motherboard",
+        "answer_choices":["Central Processing Unit","Hard Disk Drive","Motherboard","Random Access Memory"]
+    },
+        
+    {
+        "category":"Science: Computers",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"What is the most preferred image format used for logos in the Wikimedia database?",
+        "correct_answer":".svg",
+        "answer_choices":[".png",".jpeg",".gif",".svg"]
+    },
+
+    {
+        "category":"Science: Computers",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"How many kilobytes in one gigabyte (in decimal)?",
+        "correct_answer":"1000000",
+        "answer_choices":["1024","1000000","1000","1048576"]
+    },
+        
+    {
+        "category":"Science: Computers",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"In computing, what does MIDI stand for?",
+        "correct_answer":"Musical Instrument Digital Interface",
+        "answer_choices":["Musical Instrument Digital Interface","Musical Interface of Digital Instruments","Modular Interface of Digital Instruments","Musical Instrument Data Interface"]
+    }
+    
+    ]}
+

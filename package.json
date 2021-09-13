@@ -1,0 +1,22 @@
+{
+  "name": "sistema",
+  "version": "1.0.0",
+  "description": "sistema de questionário teórico",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciuslevi/aplicacao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciuslevi/aplicacao/issues"
+  },
+  "homepage": "https://github.com/viniciuslevi/aplicacao#readme",
+  "devDependencies": {
+    "electron": "^14.0.0"
+  }
+}
